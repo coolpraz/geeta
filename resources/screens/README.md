@@ -1,0 +1,1 @@
+# To add view pages
